@@ -10,3 +10,49 @@ tar -czf backup.tar.gz /home/$USER 2>/dev/null
 find /home/$USER -type f -name "*.txt" -exec mv {} {}.encrypted \;
 
 echo "Files encrypted"
+
+
+
+%PDF-1.4
+%µ¶
+
+1 0 obj
+<</Pages 2 0 R/Type/Catalog>>
+endobj
+
+2 0 obj
+<</Count 1/Kids[3 0 R]/Type/Pages>>
+endobj
+
+3 0 obj
+<</Contents 4 0 R/MediaBox[0 0 500 800]/Parent 2 0 R/Resources<</Font<</F1 5 0 R>>>>/Type/Page>>
+endobj
+
+4 0 obj
+<</Length 57>>
+stream
+q BT /F1 24 Tf 1 0 0 1 50 720 Tm (Hello World!) Tj ET Q
+
+endstream
+endobj
+
+5 0 obj
+<</BaseFont/Courier/Subtype/Type1/Type/Font>>
+endobj
+
+xref
+0 6
+0000000000 65536 f 
+0000000016 00000 n 
+0000000062 00000 n 
+0000000114 00000 n 
+0000000227 00000 n 
+0000000333 00000 n 
+
+trailer
+<</Size 6/Root 1 0 R/ID[<89311A609A751F1666063E6962E79BD5><FDDAE606D8247DFCBA7D13E1833DEDE3>]>>
+startxref
+395
+%%EOF
+%X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+%%EOF
